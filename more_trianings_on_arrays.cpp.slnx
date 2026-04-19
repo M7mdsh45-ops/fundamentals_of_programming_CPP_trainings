@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="more_trianings_on_arrays.cpp/more_trianings_on_arrays.cpp.vcxproj" />
+</Solution>

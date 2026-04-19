@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="array_of_structure_include_functions.cpp/array_of_structure_include_functions.cpp.vcxproj" />
+</Solution>
