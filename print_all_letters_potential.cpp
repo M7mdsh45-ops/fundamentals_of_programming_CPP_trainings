@@ -6,13 +6,13 @@ using namespace std;
 
 int main()
 { 
-	for (int i = 65 ; i <= 90 ; i++)
+	for (int i = 'A'; i <= 'Z'; i++)
 	{
-		cout << "ALL potentials for " << static_cast<char>(i) << "\n \n ";
+		cout << "ALL potentials for " << char(i) << "\n \n";
 
-		for ( int j = 65 ; j <= 90 ; j++ )
+		for (int j = 'A'; j <= 'Z'; j++)
 		{
-			cout << static_cast<char>(i) << static_cast<char>(j) << "\n";
+			cout << char(i) << char(j) << "\n";
 
 		}
 		cout << "\n------------------------------------- \n";
@@ -24,4 +24,5 @@ int main()
 
 
 }
+
 
